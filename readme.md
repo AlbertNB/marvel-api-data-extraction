@@ -18,4 +18,4 @@
 
 ## Saída
 
-* Será gerado um arquivo `datase.json` com os dados desejados
+* Será gerado um arquivo `dataset.json` com os dados desejados
